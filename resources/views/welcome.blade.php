@@ -95,9 +95,9 @@
                     <h2><span class="color_black"> 1) Database</span> : Table related to authentication, 1 table to store TODO data, 1 data to store urgency todo type</h2>
                     <h2><span class="color_black"> 2) User Roles</span> : 2 roles, normal user and administrator. You are welcome to use other role & permission package if you want to do so, if not assume that user with id 1 is administrator.</h2>
 
-                    <h2><span class="color_black"> 3) User Interface</span> : You allow to use any other HTML templates that will be bonus point and if you have more time. If not you can you default theme that provided by Laravel that use <a href="https://getbootstrap.com/">Boostrap</a>.</h2>
+                    <h2><span class="color_black"> 3) User Interface</span> : You allow to use any other HTML templates that will be bonus point and if you have more time. If not you can you default theme that provided by Laravel that use <a href="https://getbootstrap.com/">Bootstrap</a>.</h2>
 
-                    <h2><span class="color_black"> 4) Project Files </span>: You can directly use this template by download/clone it at Sankyu <a href="https://gitlab.com/">Gitlab</a>. This project file using Laravel version 5.8, you can refer the documentation at <a href="https://laravel.com/docs/5.8">Laravel</a></h2>
+                    <h2><span class="color_black"> 4) Project Files </span>: You can directly use this template by download/clone it at Sankyu <a href="https://github.com/sankyu-tech/coding-test">Github</a>. This project file using Laravel version 5.8, you can refer the documentation at <a href="https://laravel.com/docs/5.8">Laravel</a></h2>
 
                     <h2><span class="color_black"> 5) Core Process</span> : You need to have CRUD(CREATE,READ,UPDATE,DELETE) things in your application and with the owner of todo.</h2>
 
